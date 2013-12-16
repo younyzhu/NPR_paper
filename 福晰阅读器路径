@@ -1,0 +1,2 @@
+wine /run/media/younyzhu/软件/Program\ Files\ \(x86\)/Foxit\ Software/Foxit\ Reader/Foxit\ Reader.exe
+gnome-terminal -t $TITLE -x
